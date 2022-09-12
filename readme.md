@@ -10,6 +10,6 @@
 
 # Time taken to finish this project is 8 hours.
 
-[Live link ]()
+[Live link ](https://peaceful-klepon-86cd38.netlify.app/)
 
 
